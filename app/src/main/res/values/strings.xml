@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TugasPert3</string>
+    <string-array name="array_kategori">
+        <item>Pilih Kategori</item>
+        <item>Anak-anak</item>
+        <item>Dewasa</item>
+    </string-array>
+</resources>
